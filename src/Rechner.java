@@ -59,6 +59,7 @@ public class Rechner extends JFrame{
 	}
 	
 	public static void main(String[] args){
+		//System.out.println("");
 		Rechner f = new Rechner();
 		f.setTitle("Rechner");
 		f.setSize(600,150);
