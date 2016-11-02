@@ -53,7 +53,7 @@ public class Rechner extends JFrame{
 		c.add(erg);
 		c.add(add);
 		c.add(sub);
-		c.add(mein Name ist Tobias);
+		c.add(mul);
 		c.add(div);
 		c.add(del);
 	}
